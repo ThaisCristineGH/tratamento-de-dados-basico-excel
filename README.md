@@ -14,7 +14,7 @@ relatorio_limpeza_agua.pdf — Documento descrevendo o processo de limpeza
 
 img/
 dados_originais_excel.png — Base antes da limpeza
-base_tratada_excel.png — Base após a limpeza
+ - base_tratada_excel.png — Base após a limpeza
 
 ## 🧹 O que foi realizado no tratamento:
 Padronização de Texto: Uniformização das colunas de cidades, estações de tratamento e turnos.
