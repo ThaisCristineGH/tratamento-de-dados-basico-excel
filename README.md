@@ -28,7 +28,7 @@ Validação dos Dados: Conferência visual e lógica para garantir consistência
 Abaixo, você pode ver a diferença entre a base bruta e a base tratada:
 Antes (Dados Brutos)
 ![Antes](./img/dados_originais_excel.png)
-Depois (Dados Limpos e Formatados
+Depois (Dados Limpos e Formatados)
 ![Antes](./img/base_tratada_excel.png)
 
 ## 🛠️ Tecnologias
