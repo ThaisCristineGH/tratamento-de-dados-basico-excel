@@ -1,4 +1,4 @@
-# 📊 Projeto de Limpeza de Dados – Tratamento de Água (Excel)
+# 📊 Tratamento de dados / básico / excel 
 
 Este repositório contém um projeto prático de Data Cleaning (Limpeza de Dados), onde transformei uma base de dados de tratamento de água bruta e desorganizada em uma estrutura organizada, padronizada e pronta para análise, utilizando Microsoft Excel.
 
