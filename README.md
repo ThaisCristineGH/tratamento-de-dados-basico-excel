@@ -1,3 +1,4 @@
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 # 📊 Tratamento de dados / básico / excel 
 
 Este repositório contém um projeto prático de Data Cleaning (Limpeza de Dados), onde transformei uma base de dados de tratamento de água bruta e desorganizada em uma estrutura organizada, padronizada e pronta para análise, utilizando Microsoft Excel.
@@ -21,7 +22,6 @@ img/
 5. Validação dos Dados: Conferência visual e lógica para garantir consistência.
 
 ## 📈 Comparação Visual
-
 Abaixo, você pode ver a diferença entre a base bruta e a base tratada:
 Antes (Dados Brutos)
 ![Antes](./img/dados_originais_excel.png)
