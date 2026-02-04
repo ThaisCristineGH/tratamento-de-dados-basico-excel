@@ -1,4 +1,6 @@
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Iniciante](https://img.shields.io/badge/Nível-Iniciante-yellow)
+
 # 💧 Data Cleaning: Padronização de Dados de Tratamento de Água
 
 Este repositório contém um projeto prático de Data Cleaning (Limpeza de Dados), onde transformei uma base de dados de tratamento de água bruta e desorganizada em uma estrutura organizada, padronizada e pronta para análise, utilizando Microsoft Excel.
