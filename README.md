@@ -17,7 +17,7 @@ Este repositório contém um projeto prático de Data Cleaning (Limpeza de Dados
 4. Organização da Estrutura: Conversão da base em Tabela do Excel e organização das colunas.
 5. Validação dos Dados: Conferência visual e lógica para garantir consistência.
 
-## 💡 Tecnologias
+## 💡 Ferramentas/técologias:
 Microsoft Excel: Limpeza, organização e formatação.
 GitHub: Hospedagem e documentação do projeto.
 
