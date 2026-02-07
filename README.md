@@ -8,7 +8,6 @@ Este repositório contém um projeto prático de Data Cleaning (Limpeza de Dados
 ## 📁 Estrutura do Projeto
 1. csv/ base final limpa para visualização no GitHub
 2. img/ base antes e depois da limpeza
-3. pdf/ documento descrevendo o processo de limpeza
 4. planilha_excel/ planilha com os dados originais e tratados
 
 ## 💻 O que foi realizado no tratamento:
