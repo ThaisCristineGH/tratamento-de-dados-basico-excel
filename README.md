@@ -18,13 +18,12 @@ Este repositório contém um projeto prático de Data Cleaning (Limpeza de Dados
 4. Organização da Estrutura: Conversão da base em Tabela do Excel e organização das colunas.
 5. Validação dos Dados: Conferência visual e lógica para garantir consistência.
 
-## 🛠️ Tecnologias
+## 💡 Tecnologias
 Microsoft Excel: Limpeza, organização e formatação.
 GitHub: Hospedagem e documentação do projeto.
 
-## 📈 Comparação Visual
-Abaixo, você pode ver a diferença entre a base bruta e a base tratada:
+## 💎 Comparação Visual
 Antes (Dados Brutos)
 ![Antes](./img/dados_originais_excel.png)
-Depois (Dados Limpos e Formatados)
+Depois (Dados trartados)
 ![Antes](./img/base_tratada_excel.png)
